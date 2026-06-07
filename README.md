@@ -1,5 +1,7 @@
 # Housing Dashboard
 
+[English README](README_EN.md)
+
 דאשבורד אינטראקטיבי ב-Streamlit לניתוח נתוני דיור וחיזוי מחירי נכסים.
 
 ## תכונות

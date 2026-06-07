@@ -1,5 +1,7 @@
 # Housing Dashboard
 
+[קישור ל-README בעברית](README.md)
+
 An interactive Streamlit dashboard for exploring housing data and predicting property prices.
 
 ## Features
